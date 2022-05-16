@@ -1,28 +1,34 @@
 How many years of development experience do you have?
-
+at least 5 years
 
 How many years of JavaScript experience do you have?
+less than 1 year
 
 
 How many years of Ruby experience do you have?
+0 year
 
 
 How many years of other high level language(s) if not Ruby or JavaScript do you have?
+5 years
 
 
 What are your opinions on Agile software development?
-
+significantly reducing project risk.and help to be more spicify the weakness point in the project.
 
 TDD or BDD?
-
+BDD enforce good structure and layers for automation
 
 Do you have any Ruby or Ruby on Rails experience?
+no
 
 
 What are you looking for in a job?
+provide me good experiance, 
 
 
 Are you legal to work in the US?
-
+yes
 
 When can you start?
+soon
